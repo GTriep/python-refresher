@@ -32,6 +32,6 @@ def leap_year(year):
     else:
         return False 
     
-print (leap_year(2000))
-print (leap_year (1900))
-print (leap_year (2024))
+print('2000 is a Leap year:', leap_year(2000))
+print('1900 is a Leap year:', leap_year (1900))
+print('2024 is a Leap year:', leap_year (2024))
